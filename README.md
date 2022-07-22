@@ -17,6 +17,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 <hr/>
+<p> Just an average CS student encoraging people to get involved in the tech world through coding</P>
+<p> A designer by day, a coder by night.</p>
 ---
 
 ### :fire: My Stats :
