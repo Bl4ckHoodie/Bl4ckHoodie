@@ -21,4 +21,4 @@
 <p> A designer by day, a coder by night.</p>
 ---
 
-### All bugs must burn :fire: :laugh:
+### Burning Bugs:fire:
